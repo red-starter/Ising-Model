@@ -40,7 +40,7 @@ Plots lattice with a hot start, with and a 150x150 lattice and equilibrated at a
 	P.lattice()
 	P.show()
 
-![Specific heat capacity](https://github.com/red-starter/Ising-Model/blob/master/images/lattice_with_magnetic_field.png?raw=true)
+![Specific heat capacity](https://github.com/red-starter/Ising-Model/blob/master/images/lattice_with_hot_start.png?raw=true)
 
 Plots lattice with a hot start and with and a 100x100 lattice, with an external magnetic field of 1, and ran for 60000 steps
 	
@@ -49,3 +49,5 @@ Plots lattice with a hot start and with and a 100x100 lattice, with an external 
 	P=I.plots(N=100,start='High',B=1,steps=60000)
 	P.lattice()
 	P.show()
+
+![Specific heat capacity](https://github.com/red-starter/Ising-Model/blob/master/images/lattice_with_magnetic_field.png?raw=true)
