@@ -20,7 +20,7 @@ Plots specific heat capacity with a cold start and with increments of 0.1 for a 
 	P.spec_heat()
 	P.show()
 
-![Specific heat capacity](https://github.com/red-starter/Ising-Model/blob/master/images/heat_capacity.png)
+![Specific heat capacity](https://github.com/red-starter/Ising-Model/blob/master/images/heat_capacity.png?raw=true)
 
 Plots magnetization with with a hot start increments of 0.1 for a 15x15 lattice
 
