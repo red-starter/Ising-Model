@@ -1,6 +1,7 @@
 To install dependecies run: pip install -r requirements.txt
 
 To plot a lattice instantiate a plot object, the parameters include: 
+	
 	N- size of lattice
 	B- strength of magnetic field (default is zero)
 	start- low(cold) or high(hot) start (default is low)
